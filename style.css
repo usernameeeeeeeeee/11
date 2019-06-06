@@ -1,0 +1,31 @@
+body{
+	font-family: arial;
+}
+h2 {
+	font-weight: normal;
+	font-size: 20px;
+}
+.flex{
+	display: flex;
+}
+p{
+	color: gray;
+}
+.mleft{
+	margin-left: 30px;
+}
+h1{
+	font-weight: 850;
+}
+.content{
+	background-color: #ffeffe;
+	padding-left: 150px;
+	padding-top: 50px;
+}
+.white{
+	background-color: white;
+	width: 600px;
+}
+.div{
+	margin-top: 30px;
+}
